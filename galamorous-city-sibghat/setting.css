@@ -1,0 +1,151 @@
+body {
+    padding: 0;
+    margin: 0;
+   }
+   .header{
+     height: 30;
+     width: 98vw;
+     padding: 0%;
+       
+   }
+   .hading{
+       width: 98vw;
+       height: 22vh;
+   }
+   .hading img{
+       width: 12vw;
+       height: auto;
+       margin-left: 9vw;
+   }
+   .hading h1 {
+       margin-top: -13vh;
+       margin-left: 23vw;
+   }
+   .hading h5{
+       margin-top: -4vh;
+       margin-left: 55vw;
+   }
+   .main{
+       margin-top: -5vh;
+       margin-top: -7vh;
+       background-color: green;
+       height: 9vh;
+   }
+   .main nav{
+       color: black;
+   }
+   .main img{
+       border-radius: 50%;
+       height: 5vh;
+       width: 4vw;
+       margin-top: 3vh;
+       margin-left: 3vw;
+   }
+   .main a{
+       color: black;
+       margin-top: -6vh;
+       margin-left: 7vw;
+       display: flex;
+       display: inline-block;
+   }
+   .main h1{
+       margin-top: 8vh;
+   }
+   
+   
+   
+
+
+
+   .fotter{
+    background-color: black;
+    color: aliceblue;
+}
+.side img{
+    margin-left: 2vw;
+    margin-top: 2vh;
+    border-radius: 50%;
+    width: 5vw;
+    height: 8vh;
+}
+.side h1{
+    
+    margin-top: -8vh;
+    margin-left: 10vw;
+}
+
+.side h5{
+    font-size: 11px;
+    margin-top: -4vh;
+    margin-left: 39vw;
+}
+.side p{
+    font-size: 10px;
+    margin-left: 4vw;
+    margin-top: 4vh;
+    width: 35vw;
+}
+.USEFULL{
+    
+}
+.end img{
+    margin-left: 24vw;
+    margin-top: 2vh;
+    border-radius: 50%;
+    width: 4vw;
+    height: 6vh;
+}
+.end h2{
+    font-style: italic;
+
+    margin-top: -5vh;
+    margin-left: 29vw;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+}
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+}
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #4CAF50;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+</style>
+.USEFULL, .info {
+    margin-top: -23px;
+    float: right;
+    width: 45%; /* Adjust the width as needed, leaving some space in between */
+    box-sizing: border-box; /* Include padding and border in the total width */
+    padding: 20px; /* Add padding for spacing */
+}
+
+/* Optional: Add styles for h2 and ul */
+.USEFULL h2, .info h2 {
+    color: #333;
+}
+
+.USEFULL ul, .info p {
+    margin: 3;
+}
+   
